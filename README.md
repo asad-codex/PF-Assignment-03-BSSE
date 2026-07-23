@@ -1,9 +1,5 @@
 # C++ Programming Fundamentals — Assignment 3 🚀
-This repository contains a collection of 30 console-based C++ programs developed using **procedural programming** principles as part of university coursework (Programming Fundamentals — Assignment 3). The set covers 1D & 2D arrays, user-defined functions, function overloading, character arrays (C-style strings), searching, and sorting.
-
-**Course:** Programming Fundamentals
-**Instructor:** Umer Khalil
-**Assignment:** Assignment 3
+This repository contains a collection of 30 console-based C++ programs developed using **procedural programming** principles as part of university coursework. The set covers 1D & 2D arrays, user-defined functions, function overloading, character arrays (C-style strings), searching, and sorting.
 
 ---
 ## 📂 Included Programs
